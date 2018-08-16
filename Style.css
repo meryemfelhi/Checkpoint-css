@@ -1,0 +1,93 @@
+
+.m {width: 100%;
+    height: 450px;
+    padding: 50px;
+    background-image: url("https://images.unsplash.com/photo-1532972190883-11c46c01030b?ixlib=rb-0.3.5…gb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=e301c9d…");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+}
+
+h1{color:whitesmoke; 
+    font-size: 180px ;  padding-top: 50px
+}
+h2{ color: tomato ; font-size: 80px}
+#esmp1{color: yellowgreen;} 
+#txtp1{font-size: 30px}
+span.p1{
+background-color:  blanchedalmond ;
+display: inline-block;
+width: 700px; height: 700px;
+text-overflow: clip;
+text-align: center;  margin-left: 100px
+}
+#esmp2{ color: darkorange
+
+}
+#txtp2{ font-size: 30px
+
+}
+span.p2{background-color: palegreen  ;
+    display: inline-block;
+    width: 700px; height: 700px;
+    text-overflow: clip;
+    text-align: center;   }
+#esmp3{
+    color: darkorange
+}
+#txtp3{ font-size: 30px
+
+}
+span.p3{
+    background-color: palegreen;
+    display: inline-block;
+    width: 700px; height: 700px;
+    text-overflow: clip;
+    text-align: center;   margin-left: 100px
+}
+#esmp4{
+   color: yellowgreen
+}
+#txtp4{
+font-size: 30px
+}
+span.p4{
+    background-color:   blanchedalmond;
+display: inline-block;
+width:  700px; height:  700px;
+text-overflow: clip;
+text-align: center;   
+}
+#esmp5{
+    color: yellowgreen
+}
+#txtp5{
+font-size: 30px
+}
+span.p5{background-color:  blanchedalmond ;
+    display: inline-block;
+    width: 700px; height: 700px;
+    text-overflow: clip;
+    text-align: center;  margin-left: 100px }
+#esmp6{
+color: darkorange
+}
+#txtp6{
+font-size: 30px
+}
+span.p6
+{background-color:palegreen ;
+    display: inline-block;
+    width: 700px; height:700px ;;
+
+    text-overflow: clip;
+    text-align: center;   }
+    span.p1:hover{ border: 4px solid palevioletred}
+    span.p2:hover{ border: 4px solid palevioletred}
+    span.p3:hover{ border: 4px solid palevioletred}
+    span.p4:hover{ border: 4px  solid palevioletred}
+    span.p5:hover{ border: 4px solid palevioletred}
+    span.p6:hover{ border: 4px solid palevioletred}
